@@ -11,7 +11,7 @@ def sum_numbers(num1, num2):
     return num1 + num2
 
 def divide_number (num1, num2):
-    return divide_number(num1, num2)
+    return divmod(num1, num2)
 
 def lst_avarage(lst):
     sum = 0
